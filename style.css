@@ -1,0 +1,121 @@
+ 
+
+body {background-image:url("https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg");
+      background-repeat: no-repeat;
+      background-size:cover;
+      background-attachment: fixed;}
+
+h1 {font-family:"Josefin Slab";
+    color: silver;
+    align:center; 
+    font-size:150px;}
+
+h2{ font-family:"Josefin Slab";
+    color: silver;
+    align:center; 
+    font-size:60px; }
+
+
+
+.smimg {width:100%; 
+        Height:fill container;}
+
+.link{text-decoration:none;
+      color:silver }
+
+.link2{text-decoration:none;
+       color:darkgreen;}
+
+.nav {font-family:"Barlow Semi Condensed";
+      font-size:20px; 
+      text-align:center;
+      height:40px; 
+      width:150px;
+      margin:00px 00px 70px 40px; 
+      padding:60 60 60 60 ; 
+      background-color: yellow}
+
+.sm {align-row:center;
+     padding: 10px;
+     margin-top: 20px;
+     margin-right: 20px;
+     margin-bottom: 0px;
+     background: rgba(00, 40, 00, 0.5); }
+
+.btn{background:rgba(60,10,20,.2);}
+
+.box {
+    background: rgba(80, 10, 20, 0.5);
+    text-align: center; 
+    color:silver;
+    border:solid;
+    border-color:rgba(100,100,100,100);
+    border-width:5px;
+    padding: 40px;
+    margin: 100px;}
+
+.otherbox {
+    background: rgba(00, 00, 40, 0.5);
+    text-align: center; 
+    color:silver;
+    border:solid;
+    border-color:rgba(100,100,100,100);
+    border-width:5px;
+    padding: 40px;
+    margin: 100px;}
+
+.boxyIII {
+    background: rgba(00, 40, 00, 0.5);
+    text-align: center; 
+    color:silver;
+    border:solid;
+    border-color:rgba(100,100,100,100);
+    border-width:5px;
+    padding: 40px;
+    margin: 100px;}
+
+#about {font-family:"Montserrat";
+        font-size:25px}
+
+#portfolio {font-family:"Barlow Semi Condensed";
+            font-size:30px}
+
+#button1 {font-family:"Barlow Semi Condensed";
+          text-align:center;
+          font-size:40px;
+          height:200px;
+          width:210px; 
+          margin:40px;
+          background-image:url("https://static.pexels.com/photos/356407/pexels-photo-356407.jpeg");                       background-repeat: repeat;
+          background-size:820px; 
+          background-position:bottom-center; 
+          background-attachment: fixed;}
+
+#button2 {font-family:"Barlow Semi Condensed";
+          font-size:40px; 
+          text-align:center;
+          height:200px;
+          width:210px;
+          margin:40px; 
+          background-image:url("https://static.pexels.com/photos/92083/pexels-photo-92083.jpeg");
+          background-repeat: repeat; 
+          background-position:top-center;
+          background-size:1000px, 1000px; 
+          background-attachment: fixed;}
+
+#button3 {font-family:"Barlow Semi Condensed";
+          font-size:40px; 
+          text-align:center;
+          height:200px;
+          width:210px;
+          margin:40px; 
+          background-image:url("http://ffcu.io/wp-content/uploads/2015/12/msp_1407_2621.jpg"); 
+          background-position:right; 
+          background-repeat:repeat;
+          background-size:800px;
+          background-attachment: fixed;}
+
+
+
+
+
