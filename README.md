@@ -1,0 +1,95 @@
+
+<link href="https://fonts.googleapis.com/css?family=Arvo|Josefin+Slab|Montserrat:300"   
+      rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed" 
+      rel="stylesheet">
+
+<div class="container">
+  <nav>
+      <button id="nav1" class="btn nav col-xs-1"> 
+        <a class="link2" href="#1">ABOUT</a>
+      </button>
+    
+    <button id="nav2" class="btn nav col-xs-1">
+      <a class="link2" href="#2">  PORTFOLIO  </a>
+    </button>
+    
+    <button id="nav3"class="btn nav col-xs-1">
+      <a class="link2" href="#3">CONTACT</a>
+    </button>
+  </nav> 
+  <div class="row"> 
+    <div class="col-xs-12" align="center">
+      <h1> <b>JESSICA</b> <i>creiglow</i> </h1> 
+    </div>
+  </div>
+ 
+
+
+  
+<br>
+<br>
+
+  <div class="row">
+    <div id="1"class="box col-xs-12"> 
+      <h2 class="text-center"><b><i>about</i></b></h2> 
+        <p id="about">Jessica is a writer, singer and budding code writer based in Washington, DC where she lives with her husband and their rescue dog, Amy Pond. She's passionate about strong harmonies, excellent design, tea and good books. When she's not building websites, Jessica enjoys watching documentaries about the British Royal Family, going on walks with her dog, knitting and spending time in her community.</p> 
+  
+    </div>
+  
+  </div>
+  
+  <div class="row">
+    <div id="2" class="col-xs-12 otherbox"> 
+  
+      <h2 class="text-center"> <b> <i>portfolio</i></b> </h2> 
+
+      <div id="buttons" class="row">
+        <button id="button1" class="btn col-xs-4" type="submit">
+          <a href="https://www.hopeforgrace.wordpress.com" target="_blank">WRITING</a>
+        </button>
+      
+        <button id="button2" class="btn col-xs-4" type="button">
+          <a href="http://www.creiglowmusic.com" target="_blank">MUSIC</a>
+        </button> 
+
+        <button id="button3" class="btn col-xs-4" type="submit">
+          <a href="https://codepen.io/jgcreiglow/" target="_blank">WEB DESIGN</a>
+        </button>
+  
+      </div>   
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div id="3" class="boxyIII col-xs-12"> 
+      <h2 class="text-center"> <b> <i>Contact Me</i></b> </h2> 
+        <div class="btn-group">  
+          <button id="sm4"class="sm"> 
+            <a class="link" href="mailto:jgcreiglow@gmail.com" target="_blank"><i class="fa  fa-envelope-o fa-5x"></i></a>
+          </button> 
+          <button id="sm1"class="sm"> 
+            <a class="link"href="http://www.facebook.com/jgcreiglow" target="_blank"> <i class="fa fa-facebook fa-5x"></i></a>
+          </button> 
+          <button id="sm2"class="sm" > 
+            <a class="link" href="http://github.com/jgcreiglow" target="_blank"><i class="fa fa-github-square fa-5x"></i></a>
+          </button> 
+          <button id="sm3"class="sm"> 
+            <a class="link" href="http://www.linkedin.com/in/jessicagcreiglow" target="_blank"><i class="fa fa-linkedin fa-5x"></i></a>
+          </button> 
+          <button id="sm4"class="sm"> 
+            <a class="link" href="http://www.freecodecamp.org/jgcreiglow" target="_blank"><i class="fa fa-free-code-camp fa-5x"></i></a>
+          </button> 
+          <button id="sm4"class="sm"> 
+            <a class="link" href="http://www.hopeforgrace.wordpress.com" target="_blank"><i class="fa fa-wordpress fa-5x"></i></a>
+          </button> 
+        </div>  
+    </div>  
+  </div>
+</div>
+
+
+
+
